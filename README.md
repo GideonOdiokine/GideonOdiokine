@@ -41,5 +41,5 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GideonOdiokine&show_icons=true&theme=dracula&line_height=27" alt="rui's github stats"/>
 </a>
 <div align="center">
-### Show some ❤️ by starring some of the repositories!
+<!-- ### Show some ❤️ by starring some of the repositories! -->
 </div>
