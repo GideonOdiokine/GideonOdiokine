@@ -1,6 +1,6 @@
 ## Hola, I'm [Gideon Odiokine!] 👋
 
-- 🌱 I’m a React developer..
+- 🌱 I’m a React.js developer..
 - 💬 Ask me about Javascript ...
 - 📫 How to reach me: 09071904133 ...
 
