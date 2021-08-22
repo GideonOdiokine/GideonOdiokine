@@ -3,14 +3,6 @@
 - 🌱 I’m a React.js developer..
 - 💬 Ask me about Javascript ...
 - 📫 How to reach me: 09071904133 ...
-
-<a href="https://github.com/GideonOdiokine">
-  <img align="left" alt="gidy Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="https://www.facebook.com/GideonOdiokine/">
-  <img align="left" alt="rui's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <br/>
 <br/>
 
