@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**GideonOdiokine/GideonOdiokine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning Javascript...
 - 💬 Ask me about Javascript ...
 - 📫 How to reach me: 09071904133 ...
