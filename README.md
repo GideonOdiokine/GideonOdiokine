@@ -2,7 +2,7 @@
 
 - 🌱 I’m a React.js developer..
 - 💬 Ask me about Javascript ...
-- 📫 How to reach me: 09071904133 ...
+- 📫 How to reach me: gidysmartodiokine@gmail.com, 09071904133 .
 <br/>
 <br/>
 
