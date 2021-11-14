@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/github/followers/GideonOdiokine?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://facebook.com/GideonOdiokine">
-    <img src="https://img.shields.io/facebook/follow/GideonOdiokine?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/facebook/follow/GideonOdiokine?label=facebook&logo=twitter&style=for-the-badge" />
   </a>
 </p>
 
@@ -29,13 +29,7 @@ Languages and Tools
 <!-- <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> Dart</code> -->
 <!-- <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Node.js</code>     -->
 </p>
-<!-- <a href="https://github.com/richardingwe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardingwe&theme=light&hide_langs_below=1" />
-</a> -->
-<!-- <a href="https://github.com/richardingwe">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=richardingwe&show_icons=true&theme=light&line_height=27" alt="rui's github stats"/>
-</a> -->
-<br>
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GideonOdiokine&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GideonOdiokine&theme=tokyonight" />
