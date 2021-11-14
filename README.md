@@ -4,9 +4,6 @@
   <a href="https://github.com/GideonOdiokine?tab=followers">
     <img src="https://img.shields.io/github/followers/GideonOdiokine?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://facebook.com/GideonOdiokine">
-    <img src="https://img.shields.io/facebook/follow/GideonOdiokine?label=facebook&logo=twitter&style=for-the-badge" />
-  </a>
 </p>
 
 <div align="center">
