@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-[![GitHub richardingwe](https://img.shields.io/github/followers/GideonOdiokine?label=follow&style=social)](https://github.com/GideonOdiokine)
+<!-- [![GitHub richardingwe](https://img.shields.io/github/followers/GideonOdiokine?label=follow&style=social)](https://github.com/GideonOdiokine)
 
 **Languages and Tools:**  GideonOdiokine-9a91a5190
 
@@ -22,5 +22,25 @@
 </a>
 <div align="center">
 <!-- ### Show some ❤️ by starring some of the repositories! -->
-</div>
+<!-- </div> -->
+<!--  --> 
+<!--  -->
 
+<p align="center">
+  <a href="https://github.com/GideonOdiokine?tab=followers">
+    <img src="https://img.shields.io/github/followers/GideonOdiokine?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/GideonOdiokine">
+    <img src="https://img.shields.io/twitter/follow/GideonOdiokine?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+<!--   <a href="https://ruingwe.com">
+    <img src="https://img.shields.io/badge/PortfolioWebsite-ruingwe.com-2648ff?style=for-the-badge&logo=google-chrome" />
+  </a> -->
+</p>
+
+<div align="center">
+  <a href="https://ruingwe.com">
+    <h2>Hola, I'm GideonOdiokine! <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Hi.gif" width="29px"></h2>
+    <h2>Hello, I'm GideonOdiokine! <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Hi.gif" width="29px"></h2>
+  </a>
+</div>
