@@ -21,7 +21,7 @@ Languages and Tools
 <p align="center">
 <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Javascript</code>
 <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React.js</code>
-  <code><img height="10" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1838%2F1*2tmzU7bve-VlTkOMWsk_Hw.jpeg&imgrefurl=https%3A%2F%2Fmedium.com%2Fwesionary-team%2Fwhy-nextjs-in-2020-8c2f76973cbf&tbnid=zPM4UKkasCXsnM&vet=12ahUKEwjI6tDK_5j0AhUO_xoKHZ0dCFQQMygGegUIARDKAQ..i&docid=SXDPtBKMmzsOcM&w=1440&h=720&itg=1&q=next.js%20image&ved=2ahUKEwjI6tDK_5j0AhUO_xoKHZ0dCFQQMygGegUIARDKAQ"> Next.js</code>
+  <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">typescript.tsx</code>
 <!-- <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> Vue.js</code> -->
 <!-- <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"> Flutter</code> -->
 <!-- <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> Dart</code> -->
