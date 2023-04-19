@@ -44,7 +44,7 @@
 						<a href="https://github.com/GideonOdiokine/nextjs-fullstack-app-template" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://google.com" target="_blank">
+						<a href="https://nextjs-fullstack-app-template-pi.vercel.app" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
