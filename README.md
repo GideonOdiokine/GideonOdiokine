@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="[https://d2zv2ciw0ln4h1.cloudfront.net/uploads/cover-react-cms_09dce2416d.jpeg](https://2muchcoffee.com/blog/content/images/size/w2000/2021/02/react.jpg)" width="100%" height="100"/>
+  <img src="https://2muchcoffee.com/blog/content/images/size/w2000/2021/02/react.jpg" width="100%" height="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Gideon O. Odiokine</h1>
 <h3 align="center">A front-end developer from Akwa Ibom State, Nigeria.</h3>
