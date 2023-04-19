@@ -41,14 +41,14 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/codingphasedotcom/nextjslanding" target="_blank">
+						<a href="[https://github.com/codingphasedotcom/nextjslanding](https://github.com/GideonOdiokine/nextjs-fullstack-app-template)" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://google.com" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, CSS, Javascript</strong></p>
+					<p><strong>Reactjs, Nextjs, Storybook, Tailwindcss</strong></p>
           <p>
 						Description goes here
 					</p>
