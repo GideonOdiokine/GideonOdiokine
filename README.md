@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Gideon O. Odiokine</h1>
 <h3 align="center">A front-end developer from Akwa Ibom State, Nigeria.</h3>
-<h4 align="center">Hi my name is Gideon O. Odiokine a web developer . I've worked on web development for more than 5+ years. I am a passionate and adaptable Software Developer with experience and expertise in various roles. My experience includes building amazing APIs, web, and mobile applications with React, React Native, and Javascript.  </h4>
+<h4 align="center">Hi my name is Gideon O. Odiokine a web developer . I've worked on frontend development for more than 5+ years. I am a passionate and adaptable Software Developer with experience and expertise in various roles. My experience includes building amazing APIs, web, and mobile applications with React, React Native, and Javascript.  </h4>
 
 <hr>
 
@@ -35,13 +35,13 @@
 			<td width="50%">
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
-					<a href='https://google.com' target="_blank">
+					<a href='https://nextjs-fullstack-app-template-pi.vercel.app/' target="_blank">
 						<img src="https://github.com/codingphasedotcom/codingphasedotcom/blob/main/assets/project1.jpg?raw=true" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="[https://github.com/codingphasedotcom/nextjslanding](https://github.com/GideonOdiokine/nextjs-fullstack-app-template)" target="_blank">
+						<a href="https://github.com/GideonOdiokine/nextjs-fullstack-app-template" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://google.com" target="_blank">
