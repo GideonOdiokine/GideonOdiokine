@@ -1,9 +1,7 @@
-<div id="" align="center">
-  <img src="https://2muchcoffee.com/blog/content/images/size/w2000/2021/02/react.jpg" width="100%" height="100"/>
-</div>
+
 <h1 align="center">Hi 👋, I'm Gideon O. Odiokine</h1>
 <h3 align="center">A front-end developer from Akwa Ibom State, Nigeria.</h3>
-<h4 align="center">Hi my name is Gideon O. Odiokine a web developer . I've worked on frontend development for more than 5+ years. I am a passionate and adaptable Software Developer with experience and expertise in various roles. My experience includes building amazing APIs, web, and mobile applications with React, React Native, and Javascript.  </h4>
+<h4 align="center">Hi my name is Gideon O. Odiokine a web developer. I've worked on frontend development for more than 5+ years. I am a passionate and adaptable Software Developer with experience and expertise in various roles. My experience includes building amazing APIs, web, and mobile applications with React, React Native, Next.js, Typescript, and Javascript.  </h4>
 
 <hr>
 
