@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gideon O. Odiokine</h1>
-<h3 align="center">A front-end developer from Akwa Ibom State, Nigeria.</h3>
+<h3 align="center">A front-end developer Nigeria.</h3>
 <h4 align="center">Hi my name is Gideon O. Odiokine a web developer. I've worked on frontend development for more than 5+ years. I am a passionate and adaptable Software Developer with experience and expertise in various roles. My experience includes building amazing APIs, web, and mobile applications with React, React Native, Next.js, Typescript, and Javascript.  </h4>
 
 <hr>
